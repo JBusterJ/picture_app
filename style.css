@@ -1,0 +1,16 @@
+#snapshotButton {
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 215px;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color: #4287f5;
+    outline: none;
+    color: white;
+    border: none;
+    transition: 500ms;
+}
+#snapshotButton:hover {
+    background-color: #326ac2;
+}
